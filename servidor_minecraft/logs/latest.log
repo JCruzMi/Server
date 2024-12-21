@@ -435,3 +435,7 @@
 [20:06:50] [Server thread/INFO]: [HuanMuraTo: Teleported HuanMuraTo to 1594.500000, 97.500000, 632.500000]
 [20:06:51] [Server thread/WARN]: Kaori_p moved too quickly! 9.335151264697288,0.0,5.378733549561275
 [20:06:58] [Server thread/INFO]: [Kaori_p: Teleported Kaori_p to 1583.500000, 85.500000, 605.500000]
+[20:13:16] [Server thread/INFO]: [HuanMuraTo: Set the time to 1000]
+[20:13:38] [Server thread/INFO]: [HuanMuraTo: Gave 1 [Command Block] to HuanMuraTo]
+[20:14:11] [Server thread/INFO]: [Not Secure] <HuanMuraTo> w
+[20:14:32] [Server thread/INFO]: [HuanMuraTo: Gamerule commandBlockOutput is now set to: true]
