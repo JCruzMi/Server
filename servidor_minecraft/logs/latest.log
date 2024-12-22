@@ -1,6 +1,6 @@
-[20:01:40] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
-[20:01:41] [ForkJoinPool-1-worker-1/WARN]: Mod platforms_common uses the version unspecified which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'unspecified'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[20:01:41] [main/INFO]: Loading 95 mods:
+[22:14:44] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
+[22:14:47] [ForkJoinPool-1-worker-1/WARN]: Mod platforms_common uses the version unspecified which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'unspecified'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[22:14:48] [main/INFO]: Loading 95 mods:
 	- better-chests 0.1.1+1.21
 	   |-- aopalliance_aopalliance 1.0
 	   |-- com_google_inject_extensions_guice-assistedinject 7.0.0
@@ -110,355 +110,307 @@
 	   |-- com_twelvemonkeys_imageio_imageio-webp 3.10.0
 	   |-- org_quiltmc_parsers_gson 0.2.1
 	   \-- org_quiltmc_parsers_json 0.2.1
-[20:01:42] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Server/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[20:01:42] [main/INFO]: Compatibility level set to JAVA_21
-[20:01:44] [main/WARN]: Error loading class: net/minecraft/class_638$class_5271 (java.lang.ClassNotFoundException: net/minecraft/class_638$class_5271)
-[20:01:44] [main/WARN]: @Mixin target net.minecraft.class_638$class_5271 was not found dust.mixins.json:ClientWorldAccessor from mod cavedust
-[20:01:44] [main/WARN]: Error loading class: net/minecraft/class_340 (java.lang.ClassNotFoundException: net/minecraft/class_340)
-[20:01:44] [main/WARN]: @Mixin target net.minecraft.class_340 was not found dust.mixins.json:MixinDebugScreenOverlay from mod cavedust
-[20:01:46] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[20:02:16] [main/INFO]: Initializing Better Chests!
-[20:02:18] [main/INFO]: Registering Particles for frozenlib
-[20:02:18] [main/INFO]: 0 Datafixer optimizations took 0 milliseconds
-[20:02:18] [main/INFO]: Loading config FrozenLibConfig from frozenlib
-[20:02:18] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:18] [main/INFO]: Hello Fabric world!
-[20:02:18] [main/INFO]: My Totem Doll Initialized
-[20:02:21] [main/INFO]: Loading config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [FrozenLib Quilt Datafixer Bootstrap/INFO]: 1 Datafixer optimizations took 32 milliseconds
-[20:02:21] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:21] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:22] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:02:25] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:25] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:25] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:25] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:25] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:25] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:25] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:25] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:25] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:25] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:25] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:25] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:25] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:25] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:25] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:25] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:25] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:25] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:25] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:25] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:25] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:25] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:25] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:25] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:25] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:25] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:25] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:25] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:25] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:25] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:25] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:25] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:25] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:25] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:25] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:25] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:25] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:25] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:25] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:25] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:25] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:25] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:25] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:25] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:25] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:25] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:25] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:25] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:25] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:25] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:25] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:25] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:25] [main/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:25] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:26] [Worker-Main-1/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:26] [Worker-Main-1/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:26] [Worker-Main-1/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:26] [Worker-Main-1/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:26] [Worker-Main-1/INFO]: Saving config FrozenLibConfig from frozenlib
-[20:02:26] [Worker-Main-1/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
-[20:02:28] [main/INFO]: Loaded 1306 recipes
-[20:02:29] [main/INFO]: Loaded 1409 advancements
-[20:02:31] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 3.096 ms
-[20:02:31] [Server thread/INFO]: [Quilt DFU API] Serverside DataFixer Registry is about to freeze
-[20:02:31] [Server thread/INFO]: [Quilt DFU API] Serverside DataFixer Registry was frozen
-[20:02:31] [Server thread/INFO]: Starting minecraft server version 1.21
-[20:02:31] [Server thread/INFO]: Loading properties
-[20:02:31] [Server thread/INFO]: Default game type: SURVIVAL
-[20:02:31] [Server thread/INFO]: Generating keypair
-[20:02:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:02:31] [Server thread/INFO]: Using epoll channel type
-[20:02:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:02:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:02:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:02:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:02:32] [Server thread/INFO]: Preparing level "world"
-[20:02:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:02:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:02:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:02:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:02:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:02:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:02:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:02:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:02:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:02:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:02:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:02:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:02:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:02:47] [Server thread/INFO]: Time elapsed: 6009 ms
-[20:02:47] [Server thread/INFO]: Done (15.714s)! For help, type "help"
-[20:02:48] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[20:03:18] [Server thread/INFO]: Kaori_p[/[0:0:0:0:0:0:0:1%0]:52574] logged in with entity id 7 at (1565.3611645884273, 77.0, 621.2992653847876)
-[20:03:18] [Server thread/INFO]: Kaori_p joined the game
-[20:03:19] [Server thread/INFO]: [showmeyourskin] Client of Kaori_p accepted server config.
-[20:03:19] [Server thread/INFO]: [ShulkerBoxTooltip] Kaori_p: protocol version: 2.0
-[20:03:19] [Server thread/INFO]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
-[20:03:19] [Server thread/INFO]: [ShulkerBoxTooltip] overriding preview provider shulkerboxtooltip:trapped_chest with shulkerboxtooltip:chest for item minecraft:chest
-[20:03:19] [Server thread/INFO]: [ShulkerBoxTooltip Plugins] Registered 31 providers for mod shulkerboxtooltip
-[20:03:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
-[20:03:34] [Server thread/INFO]: HuanMuraTo[/[0:0:0:0:0:0:0:1%0]:33156] logged in with entity id 228 at (1595.2753652731951, 77.0, 585.5700005308373)
-[20:03:34] [Server thread/INFO]: HuanMuraTo joined the game
-[20:03:34] [Server thread/INFO]: [showmeyourskin] Client of HuanMuraTo accepted server config.
-[20:03:35] [Server thread/INFO]: [ShulkerBoxTooltip] HuanMuraTo: protocol version: 2.0
-[20:03:44] [Server thread/INFO]: [HuanMuraTo: Set the time to 1000]
-[20:03:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8350ms or 167 ticks behind
-[20:04:59] [Server thread/INFO]: Kaori_p was killed
-[20:04:59] [Server thread/INFO]: Villager class_1646['Villager'/98, l='ServerLevel[world]', x=1615.01, y=59.00, z=653.30] died, message: 'Villager was killed'
-[20:04:59] [Server thread/INFO]: Villager class_1646['Villager'/99, l='ServerLevel[world]', x=1615.51, y=58.00, z=654.10] died, message: 'Villager was killed'
-[20:04:59] [Server thread/INFO]: Villager class_1646['Villager'/102, l='ServerLevel[world]', x=1616.51, y=47.00, z=656.26] died, message: 'Villager was killed'
-[20:04:59] [Server thread/INFO]: Villager class_1646['Farmer'/103, l='ServerLevel[world]', x=1632.53, y=70.00, z=690.93] died, message: 'Farmer was killed'
-[20:04:59] [Server thread/INFO]: Villager class_1646['Villager'/128, l='ServerLevel[world]', x=1598.59, y=71.00, z=669.20] died, message: 'Villager was killed'
-[20:04:59] [Server thread/INFO]: Villager class_1646['Mason'/173, l='ServerLevel[world]', x=1679.54, y=79.00, z=680.39] died, message: 'Mason was killed'
-[20:04:59] [Server thread/INFO]: Villager class_1646['Farmer'/180, l='ServerLevel[world]', x=1691.90, y=71.94, z=672.41] died, message: 'Farmer was killed'
-[20:04:59] [Server thread/INFO]: Villager class_1646['Farmer'/215, l='ServerLevel[world]', x=1672.19, y=78.00, z=717.54] died, message: 'Farmer was killed'
-[20:04:59] [Server thread/INFO]: HuanMuraTo was killed
-[20:04:59] [Server thread/INFO]: Villager class_1646['Villager'/236, l='ServerLevel[world]', x=1717.57, y=69.00, z=661.45] died, message: 'Villager was killed'
-[20:04:59] [Server thread/INFO]: [HuanMuraTo: Killed 287 entities]
-[20:05:54] [Server thread/WARN]: Kaori_p moved too quickly! 9.473255049631746,0.0,5.368011511655041
-[20:05:54] [Server thread/WARN]: HuanMuraTo moved too quickly! 9.391370001912719,0.0,5.510911291121701
-[20:05:56] [Server thread/WARN]: Kaori_p moved too quickly! 9.268670825844993,0.0,4.925337927674164
-[20:06:00] [Server thread/INFO]: [HuanMuraTo: Set own game mode to Spectator Mode]
-[20:06:04] [Server thread/WARN]: HuanMuraTo moved too quickly! 9.29425517685604,0.0,5.264733366454934
-[20:06:04] [Server thread/WARN]: Kaori_p moved too quickly! 9.374217032018464,0.0,5.186308316818462
-[20:06:07] [Server thread/WARN]: HuanMuraTo moved too quickly! 9.272284061962182,0.0,5.220136609594306
-[20:06:15] [Server thread/WARN]: HuanMuraTo moved too quickly! 9.558143063129023,0.0,5.214560293932863
-[20:06:18] [Server thread/WARN]: HuanMuraTo moved too quickly! 9.68038156333796,0.0,4.864021194704208
-[20:06:30] [Server thread/WARN]: HuanMuraTo moved too quickly! 9.55849810366044,0.0,5.214742013327793
-[20:06:32] [Server thread/WARN]: HuanMuraTo moved too quickly! 8.998016001002497,0.0,4.908964953676673
-[20:06:36] [Server thread/WARN]: HuanMuraTo moved too quickly! 9.518675617313647,0.0,5.193016438913617
-[20:06:47] [Server thread/INFO]: [HuanMuraTo: Set own game mode to Creative Mode]
-[20:06:50] [Server thread/INFO]: [HuanMuraTo: Teleported HuanMuraTo to 1594.500000, 97.500000, 632.500000]
-[20:06:51] [Server thread/WARN]: Kaori_p moved too quickly! 9.335151264697288,0.0,5.378733549561275
-[20:06:58] [Server thread/INFO]: [Kaori_p: Teleported Kaori_p to 1583.500000, 85.500000, 605.500000]
-[20:13:16] [Server thread/INFO]: [HuanMuraTo: Set the time to 1000]
-[20:13:38] [Server thread/INFO]: [HuanMuraTo: Gave 1 [Command Block] to HuanMuraTo]
-[20:14:11] [Server thread/INFO]: [Not Secure] <HuanMuraTo> w
-[20:14:32] [Server thread/INFO]: [HuanMuraTo: Gamerule commandBlockOutput is now set to: true]
-[20:23:11] [Server thread/INFO]: [HuanMuraTo: Set the time to 1000]
-[20:27:48] [Server thread/WARN]: HuanMuraTo moved too quickly! 3.2853708754039417,0.0,9.47339530524198
-[20:33:12] [Server thread/INFO]: [HuanMuraTo: Set the time to 1000]
-[20:33:50] [Server thread/INFO]: [HuanMuraTo: Set the weather to clear]
-[20:43:14] [Server thread/INFO]: [HuanMuraTo: Set the time to 1000]
-[20:48:41] [Server thread/INFO]: Kaori_p has completed the challenge [Serious Dedication]
-[20:53:18] [Server thread/INFO]: [HuanMuraTo: Set the time to 1000]
-[21:01:39] [Server thread/INFO]: [HuanMuraTo: Set the time to 1000]
-[21:11:22] [Server thread/INFO]: [HuanMuraTo: Set the time to 1000]
-[21:21:27] [Server thread/INFO]: [HuanMuraTo: Set the time to 1000]
-[21:31:31] [Server thread/INFO]: [HuanMuraTo: Set the time to 1000]
-[21:35:05] [Server thread/INFO]: [HuanMuraTo: Set the weather to clear]
-[21:35:07] [Server thread/INFO]: [HuanMuraTo: Set the time to 1000]
-[21:45:07] [Server thread/INFO]: [HuanMuraTo: Set the time to 1000]
-[21:53:19] [Server thread/INFO]: [HuanMuraTo: Successfully filled 1943 block(s)]
-[21:55:06] [Server thread/INFO]: [HuanMuraTo: Successfully filled 1656 block(s)]
-[21:55:11] [Server thread/INFO]: [HuanMuraTo: Set the time to 1000]
-[22:05:21] [Server thread/INFO]: HuanMuraTo has made the advancement [Sweet Dreams]
-[22:05:26] [Server thread/INFO]: Kaori_p has made the advancement [Sweet Dreams]
-[22:16:31] [Server thread/INFO]: [HuanMuraTo: Set the time to 1000]
-[22:23:43] [Server thread/INFO]: Kaori_p lost connection: Timed out
-[22:23:43] [Server thread/INFO]: Kaori_p left the game
-[22:23:43] [Server thread/WARN]: handleDisconnection() called twice
+[22:14:48] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Server/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[22:14:49] [main/INFO]: Compatibility level set to JAVA_21
+[22:14:51] [main/WARN]: Error loading class: net/minecraft/class_638$class_5271 (java.lang.ClassNotFoundException: net/minecraft/class_638$class_5271)
+[22:14:51] [main/WARN]: @Mixin target net.minecraft.class_638$class_5271 was not found dust.mixins.json:ClientWorldAccessor from mod cavedust
+[22:14:51] [main/WARN]: Error loading class: net/minecraft/class_340 (java.lang.ClassNotFoundException: net/minecraft/class_340)
+[22:14:51] [main/WARN]: @Mixin target net.minecraft.class_340 was not found dust.mixins.json:MixinDebugScreenOverlay from mod cavedust
+[22:14:53] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[22:15:18] [main/INFO]: Initializing Better Chests!
+[22:15:19] [main/INFO]: Registering Particles for frozenlib
+[22:15:19] [main/INFO]: 0 Datafixer optimizations took 2 milliseconds
+[22:15:19] [main/INFO]: Loading config FrozenLibConfig from frozenlib
+[22:15:19] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:19] [main/INFO]: Hello Fabric world!
+[22:15:19] [main/INFO]: My Totem Doll Initialized
+[22:15:21] [main/INFO]: Loading config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:21] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:21] [FrozenLib Quilt Datafixer Bootstrap/INFO]: 1 Datafixer optimizations took 18 milliseconds
+[22:15:22] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:22] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:22] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:23] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:15:26] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:26] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:26] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:26] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:26] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:26] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:26] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:26] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:26] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:26] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:26] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:26] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:26] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:26] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:26] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:26] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:26] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:26] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:26] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:26] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:26] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:26] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:26] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:26] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:26] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:26] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:26] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:26] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:26] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:26] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:26] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:26] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:26] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:26] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:26] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:26] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:26] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:26] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:26] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:26] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:26] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:26] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:26] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:26] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:26] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:26] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:26] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:26] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:26] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:26] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:26] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:26] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:26] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:26] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:27] [Worker-Main-1/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:27] [Worker-Main-1/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:27] [Worker-Main-1/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:27] [Worker-Main-1/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:27] [Worker-Main-1/INFO]: Saving config FrozenLibConfig from frozenlib
+[22:15:27] [Worker-Main-1/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[22:15:29] [main/INFO]: Loaded 1306 recipes
+[22:15:30] [main/INFO]: Loaded 1409 advancements
+[22:15:33] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 8.307 ms
+[22:15:33] [Server thread/INFO]: [Quilt DFU API] Serverside DataFixer Registry is about to freeze
+[22:15:33] [Server thread/INFO]: [Quilt DFU API] Serverside DataFixer Registry was frozen
+[22:15:33] [Server thread/INFO]: Starting minecraft server version 1.21
+[22:15:33] [Server thread/INFO]: Loading properties
+[22:15:33] [Server thread/INFO]: Default game type: SURVIVAL
+[22:15:33] [Server thread/INFO]: Generating keypair
+[22:15:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:15:33] [Server thread/INFO]: Using epoll channel type
+[22:15:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:15:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:15:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:15:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:15:33] [Server thread/INFO]: Preparing level "world"
+[22:15:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:15:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:15:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:15:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:15:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:15:50] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[22:15:54] [Worker-Main-1/INFO]: Preparing spawn area: 16%
+[22:15:54] [Worker-Main-1/INFO]: Preparing spawn area: 16%
+[22:15:54] [Worker-Main-1/INFO]: Preparing spawn area: 16%
+[22:15:54] [Worker-Main-1/INFO]: Preparing spawn area: 16%
+[22:15:54] [Worker-Main-1/INFO]: Preparing spawn area: 16%
+[22:15:54] [Worker-Main-1/INFO]: Preparing spawn area: 16%
+[22:15:54] [Worker-Main-1/INFO]: Preparing spawn area: 16%
+[22:15:54] [Worker-Main-1/INFO]: Preparing spawn area: 28%
+[22:15:54] [Server thread/INFO]: Time elapsed: 6066 ms
+[22:15:54] [Server thread/INFO]: Done (20.764s)! For help, type "help"
+[22:15:55] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[22:16:03] [Server thread/INFO]: HuanMuraTo[/[0:0:0:0:0:0:0:1%0]:40948] logged in with entity id 6 at (1579.4069772667929, 77.0, 601.1903284190058)
+[22:16:03] [Server thread/INFO]: HuanMuraTo joined the game
+[22:16:04] [Server thread/INFO]: [showmeyourskin] Client of HuanMuraTo accepted server config.
+[22:16:04] [Server thread/INFO]: [ShulkerBoxTooltip] HuanMuraTo: protocol version: 2.0
+[22:16:04] [Server thread/INFO]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
+[22:16:04] [Server thread/INFO]: [ShulkerBoxTooltip] overriding preview provider shulkerboxtooltip:trapped_chest with shulkerboxtooltip:chest for item minecraft:chest
+[22:16:04] [Server thread/INFO]: [ShulkerBoxTooltip Plugins] Registered 31 providers for mod shulkerboxtooltip
+[22:16:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6082ms or 121 ticks behind
+[22:17:59] [Server thread/INFO]: [HuanMuraTo: Set the time to 1000]
+[22:19:01] [Server thread/INFO]: HuanMuraTo lost connection: You logged in from another location
+[22:19:01] [Server thread/INFO]: HuanMuraTo left the game
+[22:19:01] [Server thread/WARN]: handleDisconnection() called twice
+[22:19:04] [Server thread/INFO]: HuanMuraTo[/[0:0:0:0:0:0:0:1%0]:48010] logged in with entity id 396 at (1560.4645208122656, 82.8681430633933, 613.1498645137684)
+[22:19:04] [Server thread/INFO]: HuanMuraTo joined the game
+[22:19:04] [Server thread/INFO]: [showmeyourskin] Client of HuanMuraTo accepted server config.
+[22:19:05] [Server thread/INFO]: [ShulkerBoxTooltip] HuanMuraTo: protocol version: 2.0
+[22:20:32] [Server thread/INFO]: Kaori_p[/[0:0:0:0:0:0:0:1%0]:53202] logged in with entity id 757 at (1536.9101844700567, 78.5, 602.5516422461826)
+[22:20:32] [Server thread/INFO]: Kaori_p joined the game
+[22:20:32] [Server thread/INFO]: [showmeyourskin] Client of Kaori_p accepted server config.
+[22:20:33] [Server thread/INFO]: [ShulkerBoxTooltip] Kaori_p: protocol version: 2.0
